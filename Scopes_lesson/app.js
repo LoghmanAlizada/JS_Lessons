@@ -1,6 +1,6 @@
 
- // *!                       Lesson 1
- // *?                       For Scopes
+ // *!                       Lesson JS Scopes
+ 
  // *TODO                    (1) Global Scope
  // *TODO                    (2) Function Scope
  // *TODO                    (3) Block Scope
